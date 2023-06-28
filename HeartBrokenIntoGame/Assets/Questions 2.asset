@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b95ecc0c0a44ade9c8a7d308f96693, type: 3}
+  m_Name: Questions 2
+  m_EditorClassIdentifier: 
+  currentQuestion: 8
+  questionsList:
+  - question: Victims of romance fraud often feel embarrassed and ashamed.
+    isTrue: 1
+    questioned: 0
+  - question: 'Romance fraudsters never make mistakes in their stories. '
+    isTrue: 0
+    questioned: 0
+  - question: 'Romance fraudsters always ask for large sums of money. '
+    isTrue: 0
+    questioned: 0
+  - question: Victims of romance fraud often continue to communicate with the fraudster
+      even after discovering the scam.
+    isTrue: 1
+    questioned: 0
+  - question: 'Romance fraudsters often have multiple victims at the same time. '
+    isTrue: 1
+    questioned: 0

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6f770bde1517e42abb09bad6dc0642cb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Source Sans Pro SemiBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 22514c549064d4ef38b8d073165c88f3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

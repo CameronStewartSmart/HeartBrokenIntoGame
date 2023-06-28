@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b95ecc0c0a44ade9c8a7d308f96693, type: 3}
+  m_Name: Questions 3
+  m_EditorClassIdentifier: 
+  currentQuestion: 0
+  questionsList:
+  - question: "Romance fraud in the UK increased from \xA37.9 million in 2015 to
+      \xA368 million in 2019."
+    isTrue: 1
+    questioned: 1
+  - question: Men are more likely to fall victim to romance fraud in the UK.
+    isTrue: 0
+    questioned: 0
+  - question: Victims of romance fraud in the UK are likely to recover their losses.
+    isTrue: 0
+    questioned: 0
+  - question: Older adults are more likely to fall victim to romance fraud in the
+      UK.
+    isTrue: 1
+    questioned: 1
+  - question: Romance fraud is more likely to occur on dating apps and websites than
+      on social media platforms like Facebook and Instagram.
+    isTrue: 0
+    questioned: 0

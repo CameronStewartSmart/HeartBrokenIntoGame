@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b95ecc0c0a44ade9c8a7d308f96693, type: 3}
+  m_Name: Questions
+  m_EditorClassIdentifier: 
+  currentQuestion: 1
+  questionsList:
+  - question: Romance fraud is a type of online scam that targets people looking
+      for love or companionship.
+    isTrue: 1
+    questioned: 1
+  - question: Romance fraud only happens to older people who are not familiar with
+      technology.
+    isTrue: 0
+    questioned: 1
+  - question: Romance fraudsters usually use fake identities to gain the trust of
+      their victims.
+    isTrue: 1
+    questioned: 1
+  - question: Romance fraudsters often claim to be working abroad, in the military,
+      or in other high-risk professions.
+    isTrue: 1
+    questioned: 0
+  - question: Romance fraudsters are usually based in foreign countries.
+    isTrue: 0
+    questioned: 1
